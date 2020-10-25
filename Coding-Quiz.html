@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS QUIZ</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .hide{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="scores"><a href=""></a></div>
+    <div class="timer">Time: <span id="time">0</span></div>
+
+<div class="wrapper">
+    <!--Start Screen Here-->
+    <div id="start-screen" class="start">
+        <h1>Guage Your JavaScript Knowledge!</h1>
+        <p>Try to answer the following code-related questions within the time limit.
+            Keep in mind that incorrect answers will penalize your score/time by 10 seconds.
+        </p>
+        <button id="start">Start the game!</button>
+    </div>
+
+
+    <!--Questions Display Here-->
+    <div id="questions" class="hide">
+<h3 id="question-title"></h3>
+<div id="choices"></div>
+    </div>
+    <!--Feedback Display-->
+    <div id="feedback" class="hide"></div>
+    <!--End Screen-->
+    <div id="end-screen" class="hide">
+        <h4>All Done!</h4>
+        <p>Score: <span id="final-score"></span></p>
+        <p>Enter Initials: <input type="text" id="initials"></p>
+        <button id=submit>Submit</button>
+    </div>
+    <!--Leaderboard Div-->
+    <div id="leaderboard" class="hide">
+        <h5>Scores</h5>
+        <ol id="highscores"></ol>
+        <button id="return-home">Return</button>
+    </div>
+</div>
+
+
+
+
+
+
+    <script src="q.js" async defer></script>
+<script src="logic.js" async defer></script>
+</body>
+</html>
