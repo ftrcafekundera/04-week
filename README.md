@@ -10,27 +10,13 @@ This application runs in the browswer, and it features dynamically updated HTML 
 
 # Installation
 
-**OLD** To access the webpage, you can click to the following link (https://ftrcafekundera.github.io/03-week/). If you have successfully reached the webpage, you will see the below screen:
+To begin the game, click on the "Start the Game!" button. Once the game has started, utilize the four buttons to respond to the game's questions. Below is an image of the screen you should see:
 
-![Generate Password](https://user-images.githubusercontent.com/71603259/96355967-296c7c80-10b6-11eb-8836-54bb9c603e5e.GIF)
-
-**NEW** To begin the game, click on the "Start the Game!" button. Once the game has started, utilize the four buttons to respond to the game's questions. Below is an image of the screen you should see:
-
-
+![Guage Your JavaScript Knowledge](https://user-images.githubusercontent.com/71603259/97099100-5216e800-165b-11eb-9b5d-e251bc14fb42.GIF)
 
 # Usage
 
-**OLD** When you arrive at the webpage, you will first need to click on the "Generate Password" button to initiate a sequence of questions pertaining to the desired criteria of the password. The first prompt will ask you for the amount of characters you would like the password to contain; this number must be no less than 8 and no more than 128. 
-
-Subsequently, you will be asked if you would like for the password to contain numbers, uppercase letters, lowercase letters, and/or special characters. After you have completed all of the questions, your randomized password will appear in the box that says "Your Secure Password."
-
-Example of a generated password:
-
-![Randomized Password](https://user-images.githubusercontent.com/71603259/96355968-36896b80-10b6-11eb-9f7d-0453a8d800a0.GIF)
-
-If you would like to generate a new password, please refresh the page and answer the prompts again.
-
-**NEW** As mentioned above, you need to click on the "Start the Game!" button to begin the game. Once the game has started and the timer has begun counting down, you can proceed to answer the questions. To respond to a given question, utilize the four answer buttons. Once you are certain of you answer, click on the respective button and you will be presented with the next question. After all of the questions are answered, you will be prompted to submit your initials, which will then be stored in the leaderboard alongside your score.
+As mentioned above, you need to click on the "Start the Game!" button to begin the game. Once the game has started and the timer has begun counting down, you can proceed to answer the questions. To respond to a given question, utilize the four answer buttons. Once you are certain of you answer, click on the respective button and you will be presented with the next question. After all of the questions are answered, you will be prompted to submit your initials, which will then be stored in the leaderboard alongside your score.
 
 If you would like to play again, click on the return button. Good luck!
 
