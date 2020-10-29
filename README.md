@@ -10,7 +10,7 @@ This application runs in the browswer, and it features dynamically updated HTML 
 
 # Installation
 
-To begin the game, click on the "Start the Game!" button. Once the game has started, utilize the four buttons to respond to the game's questions. Below is an image of the screen you should see:
+To access the website, please use the following link: https://ftrcafekundera.github.io/04-week/. Once there, click on the "Start the Game!" button to begin the game. Once the game has started, utilize the four buttons to respond to the game's questions. Below is an image of the screen you should see:
 
 ![Guage Your JavaScript Knowledge](https://user-images.githubusercontent.com/71603259/97099100-5216e800-165b-11eb-9b5d-e251bc14fb42.GIF)
 
